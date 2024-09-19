@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image-size {
+  width: 90%;
+}
+
+.title-duration {
+  display: flex;
+  justify-content: space-between;
+}
+
+.calendar-container {
+  display: flex;
+  align-items: center;
+}
